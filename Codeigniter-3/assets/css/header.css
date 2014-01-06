@@ -1,0 +1,48 @@
+/* HEADER */
+.header
+{
+top: 0px;
+left: 0px;
+font-size: 13px;
+position: fixed;
+width: 100%;
+background-image:url("s1.png");
+height: 43px;
+border: 0px none;
+margin: 0px none; 
+padding : none;
+}
+.internal_container
+{
+margin-left: auto;
+margin-right: auto;
+width:974px;
+position: relative; 
+} 
+.list
+{
+
+list-style: none outside none;
+float: right;
+font-size: 13px;
+margin-top: -35px;
+}
+.h_li
+{
+float:right;
+line-height: 13px;
+padding-left: 10px;
+padding-right: 10px;
+color: #D7D7D7;
+font-size: 13px;
+}
+.links
+{
+text-decoration: none ;
+color: #D7D7D7;
+font-family: Arial;
+}
+.list li a:hover
+{
+color:#0077b5;
+}

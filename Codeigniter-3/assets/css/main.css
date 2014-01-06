@@ -1,0 +1,176 @@
+.header{
+
+	position :fixed; 
+
+	background-image:url('str.png');
+	 top: 0px; 
+	 left: 0px;
+	 width:100%;
+	 margin-top: 0px;
+	margin-left: 0px;
+	height: 44px; 
+	z-index: 100;
+	
+	
+	 
+}
+.footer{
+
+
+
+	position: relative;
+	bottom: 0%;
+	left:0px;
+
+	width:100.5%;
+	height: 90px; 
+	max-height: 90px;
+	min-height: 90px;
+	
+	 margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+
+
+
+}
+.sub_footer{
+
+	position:relative;
+	bottom: 0%;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	width:970px;	
+	min-width: 970px;
+	height:80px;
+	min-height: 80px;
+	max-height: 80px;
+}
+
+#linky{
+
+	position:relative;
+    margin-left: auto;
+	margin-right: auto;
+
+	
+	width:980px;	
+	height:45px;	
+	
+
+
+}
+#Link_Img{
+
+	position:float;
+	float:left;
+		
+	cursor: pointer;
+	width:76px;
+	height:25px;
+	background-color: black;
+	color: white;
+
+
+	font-family:calibri;
+	font-weight: bolder;
+	font-size:20px;
+
+
+/**/
+	padding-top: 8px;
+	padding-bottom: 10px;
+	padding-right: 2px;
+	padding-left: 2px;
+
+}
+#in{
+
+	position: float	;
+	float: right;
+
+	background-color: #0099CC;
+	border-radius: 2px;    /*to make border rounded*/
+
+	padding-bottom:0.5px;
+	padding-left :1.5px; 
+	height: 20px;
+	width:18px;
+
+	
+
+}
+
+#header_links{
+	position: float;
+	float: right;
+	width:100%px;
+	height:15px;
+	padding-top: 7px;
+	margin-right: 0px;
+
+
+}
+.WIL{
+
+	
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	color:lightgray;
+
+
+clear:both;
+}
+.WIL:hover{
+
+color:#3399FF;
+
+}
+
+.footer_links{
+
+	
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	color:#4876FF;
+	font-weight: bold;
+	font-size:12px;	
+
+
+clear:both;
+}
+.footer_links:hover{
+text-decoration: underline;
+color:#3399FF;
+
+}
+
+.inner_body{
+
+	
+	position:relative;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	padding-left: 20px;	
+	padding-right: 16px;
+	width:960px;
+	min-height: 800px;
+	max-height: 1000px;
+	
+
+
+}
+.xx_style {
+	position: relative;
+		left:8px;
+}
+.lines1 {
+	position:relative;
+	clear:both;
+
+	border-bottom: 1px solid #CCCCCC;
+}

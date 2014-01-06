@@ -1,0 +1,27 @@
+#total_posts
+{
+background-color: white;
+margin-left: 270px;
+margin-right: 270px;
+margin-bottom: 30px;
+margin-top: 50px;
+width: 780px;
+}
+#status_bar
+{
+padding: 0px 15px 0px 0px;
+background: radial-gradient(ellipse closest-side at 50% 50% , rgb(255, 255, 255), rgb(243, 243, 243) 100%) repeat scroll 0% 0% transparent;
+padding: 15px;
+margin-bottom: 0px;
+width:780;
+}
+#postText-postModuleForm
+{
+	width: 720px;
+}
+
+.like_button{
+
+
+	border-radius: 4px;
+}

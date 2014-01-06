@@ -1,0 +1,227 @@
+.footer{
+
+
+
+	position: relative;
+	bottom: 0%;
+	left:0px;
+
+	width:100.5%;
+	height: 90px; 
+	max-height: 90px;
+	min-height: 90px;
+	
+	 margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+
+
+
+}
+#body_link
+{
+
+background: none repeat scroll 0% 0% rgb(255, 255, 255);
+width: 930px;
+height: 600px;
+margin: 0px auto;
+padding: 17px 20px;
+}
+#page_head
+{
+margin: 0 10px 15px 9px;
+font-size: 22px;
+font-weight: bold;
+line-height: 24px;
+color: #000;
+}
+#link_body
+{
+
+font-size: 62.5%;
+line-height: 1.2;
+background-image:url('grey.png');
+height: 100%;
+font-family: 'Arial',sans-serif;
+vertical-align: baseline;
+}
+#wrapper
+{
+margin-top: 80px;
+margin-bottom: 10px;
+font-family: inherit;
+font-size: inherit;
+}
+
+#whts_linkedin
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.hero-headline {
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 30px;
+    color: rgb(0, 0, 0);
+    padding-top: 0px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.subhead
+{
+display: block;
+}
+.callouts .callout-headers {
+    overflow: hidden;
+}
+ul {
+    list-style: none outside none;
+	}
+
+.callouts .connect {
+    float: left;
+    margin-left: 92px;
+    position: relative;
+    width: 236px;
+}
+.callouts .callout {
+    margin-left: 10px;
+    float: left;
+    width: 236px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.callout_connect, .callout_power, .callout_learn 
+{
+    margin-left: 10px;
+    float: left;
+    width: 236px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.callouts .title {
+    font-size: 18px;
+    font-weight: bold;
+
+    line-height: 22px;
+    color: rgb(0, 0, 0);
+}
+
+.bottom_row
+{
+	clear: both;
+	position: relative;
+	left: 340px;
+
+}
+.join-now
+{
+	font-size: 17px;
+	margin-right: 7px;
+	font-color: black;
+}
+.callouts .img_profile-icn
+{
+    background-image:url("whats_linkedin_images.png"); /*no-repeat scroll 0% 0% transparent;*/
+ 		background-position: 0px 0px;
+    width: 236px;
+    height: 227px
+}
+.callouts .img_connect-icn
+{
+    background-image:url("whats_linkedin_images.png"); /*no-repeat scroll 0% 0% transparent;*/
+ 		background-position: 0px -250px;
+    margin-left: 20px;
+width: 236px;
+height: 227px;
+}
+   
+.callouts .img_share-icn
+{
+    background-image:url("whats_linkedin_images.png"); /*no-repeat scroll 0% 0% transparent;*/
+ 		background-position: 0px -500px;
+    
+width: 236px;
+margin-left: 25px;
+height: 227px;
+}
+.callouts .summary {
+    font-size: 13px;
+    line-height: 17px;
+    color: rgb(51, 51, 51);
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;}
+
+.row.join-now {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+.join-now .join-btn {
+    font-weight: bold;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+    margin: 0px;
+    overflow: visible;
+    text-decoration: none !important;
+    width: auto;
+    text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.75);
+    border-radius: 3px 3px 3px 3px;
+    padding: 0px 15px;
+    height: 34px;
+    line-height: 32px;
+    -moz-box-sizing: border-box;
+    font-size: 16px;
+    color: rgb(51, 51, 51);
+    background-color: rgb(246, 227, 18);
+    border-color: rgb(233, 172, 26);
+    background-image: -moz-linear-gradient(center top , rgb(246, 227, 18) 0%, rgb(249, 200, 13) 100%);
+    white-space: nowrap;
+    display: inline-block;
+    vertical-align: middle;
+}
+.vertical_line 
+{
+	clear: both;
+
+	border-color: #C0C0C0;
+	display: block; 
+    border: 0; 
+    height:100px;
+    border-left: 1px solid #ccc;
+    
+
+}
+
+.footer_links{
+
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	color:#4876FF;
+/*	font-weight: bold;
+	font-size:12px;	
+*/
+	font-weight:normal;
+	font-size:12px;	
+	text-decoration:none;
+	color: rgb(0, 102, 153);
+
+
+
+clear:both;
+}
+.footer_links:hover{
+text-decoration: underline;
+color:#3399FF;
+
+}

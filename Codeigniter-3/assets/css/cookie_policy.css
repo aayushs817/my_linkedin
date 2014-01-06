@@ -1,0 +1,135 @@
+#body_cookie
+{
+
+background: none repeat scroll 0% 0% rgb(255, 255, 255);
+}
+h1
+{
+font-size: 18px;
+margin: 0 0 15px;
+font-weight: normal;
+color: black;
+}
+p
+{
+    margin: 10px 0px;
+    font-size: 13px;
+    color: black;
+}
+h2
+{
+color: black;
+}
+.footer{
+
+
+
+	position: relative;
+	bottom: 0%;
+	left:0px;
+
+	width:100.5%;
+	height: 90px; 
+	max-height: 90px;
+	min-height: 90px;
+	
+	 margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+
+
+
+}
+#cookie_body
+{
+
+font-size: 62.5%;
+line-height: 1.2;
+
+font-family: 'Arial',sans-serif;
+vertical-align: baseline;
+
+}
+#wrapper
+{
+margin-left: auto;
+margin-right: auto;
+width: 974px;
+
+margin-top: 80px;
+margin-bottom: 20px;
+font-family: inherit;
+font-size: inherit;
+}
+#email input
+{
+    width: 300px;
+}
+
+
+.h_ft a:active,.h_ft a:hover {
+    outline: 0px none;
+}
+.h_ft a:hover {
+    text-decoration: underline;
+}
+
+ /*BUTTON*/
+ 
+
+#container .button_  input 
+{
+
+border-color: #045a8b;
+background-color: #0571A6;
+
+color: #fff !important;
+
+border-width: 1px;
+border-style: solid;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+cursor: pointer;
+font-size: 12px;
+line-height: 1.35;
+margin: 0;
+overflow: visible;
+padding: 3px 10px 2px;
+text-decoration: none !important;
+vertical-align: top;
+width: auto;
+}
+
+/*FOR TEMP OF FOOT*/
+#foot_image
+{
+margin-top: -3px;
+}
+.footer_links{
+
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	color:#4876FF;
+/*	font-weight: bold;
+	font-size:12px;	
+*/
+	font-weight:normal;
+	font-size:12px;	
+	text-decoration:none;
+	color: rgb(0, 102, 153);
+
+
+
+clear:both;
+}
+.footer_links:hover{
+text-decoration: underline;
+color:#3399FF;
+
+}
+li
+{
+	font-size:15px;
+}

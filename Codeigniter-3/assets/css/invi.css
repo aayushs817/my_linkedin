@@ -1,0 +1,189 @@
+.sidebar_cover_invitations{
+
+	position: relative;
+	min-width: 900px;
+	max-width: 950px;
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6%;
+
+}
+
+.cover-invitations{
+
+	position:float;
+	float: right;
+	border-color: black;
+	width:500px;
+	margin-right: 25%;
+	
+}
+.sidebar_{
+
+	
+	position:float;
+	float:left;
+	width:150px;
+	height:160px;
+	border-radius: 9px; 
+	border:solid;
+	border-width:1px; 
+	border-color:gray; 
+	padding-left:10px;
+	padding-top: 8px;
+
+
+}
+.s_inbox_txt{
+
+	clear:both;
+	width:100px;
+
+
+}
+.srch_ico{
+	clear:both;
+	position:relative;
+	top:5px;
+
+}
+.chk{
+	clear: both;
+	position: float;
+	float: left;
+	margin-top:2%;
+	margin-left: 10px;
+
+
+}
+.invite_img{
+clear: both;
+	position: float;
+	float: left;
+	margin-left: 2px;
+	margin-top:2%;
+
+}
+.date{
+
+
+	position: float;
+	float: right;
+}
+.invite_info{
+	margin-top:2%;
+	position:float;
+	float:left;
+	margin-left:10px;
+}
+.headlind{
+
+	position:float;
+	float:left;
+
+	margin-left:10px;
+
+}
+
+.show-more-show-more-invitations{
+
+
+clear: both;
+	position:relative;
+
+}
+.prof_body{
+
+	clear: both;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:5%;
+	width:1050px;
+	border: solid;
+}
+#Change_pic_b_1{
+
+
+	position:relative;
+	left:-13%;
+	top:-8px;
+}
+#mfile_2{
+
+	position:relative;
+	
+	width:95px;
+	height:24px;
+}
+
+#Change_cancel_b_2{
+
+
+	position:relative;
+	margin-left:0px;
+
+
+
+}
+
+.liked_bys{
+
+height: 200px;
+width:400px; 
+padding:20px;
+background-color: white;
+position:fixed;
+top:30%;
+left:30%;
+
+-webkit-border-radius: 12px;
+-moz-border-radius: 7px; 
+border-radius: 7px;
+overflow: auto;
+
+
+}
+
+#lk_by_can{
+
+	width:10px;
+	height:22px;
+	position:fixed;
+	font-weight: bolder;
+	top:31%;
+	left:61%;
+	background-color:white;
+	border:none; 
+
+}
+
+.liked_bys_5{
+
+height: 800px;
+width:900px; 
+padding:20px;
+background-color: white;
+position:relative;
+margin-top:7%;
+margin-left: auto;
+margin-right: auto;
+-webkit-border-radius: 12px;
+-moz-border-radius: 7px; 
+padding-top: 10%;
+padding-left: 8%;
+border-radius: 100px;
+overflow: auto;
+}
+
+.head_con{
+
+font-size: 40px;
+position: relative;
+text-align: center;
+z-index: 8;
+left: -30px;
+
+
+}
