@@ -1,0 +1,2 @@
+LinkedIn clone built in PHP codeigniter which provides same essential functionality to its users as of Linkedin. 
+Maintains one’s profile, connections, statuses along with news feeds for keeping the user updated with activity stream with the search functionality integrated.
